@@ -1,0 +1,19 @@
+{
+  "name": "hangry-using-hapi",
+  "version": "1.0.0",
+  "description": "menu & submenu api using hapi framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2",
+    "hapi": "^18.1.0",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.6.2",
+    "sequelize-cli": "^6.2.0"
+  }
+}
